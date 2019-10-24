@@ -19,6 +19,3 @@ Axios - a promised-based http library, similar to jQuery's Ajax library. It work
 Morgan - express middleware used for automated logging of requests, responses and related data to stdout (i.e., logs remote ip, request method, http version, response status, etc.).
 To run the application
 Just run "npm install" in a terminal window after cloning the project. The required packages will be fetched from the package.json file and installed on your machine. Or you can see a deployed version here.
-
-License
-MIT license applies.
